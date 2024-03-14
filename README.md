@@ -23,7 +23,7 @@ The Company interface allows organizations to post job vacancies for potential c
 - Secure login system
 - Email notifications using PHPMailer
 
-## How to Use
+## Get Started
 - Clone the repository.
 - Set up MySQL database named `careerclan` using the provided SQL file.
 - Configure the `connectdb.php` file with your database credentials.
