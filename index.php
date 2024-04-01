@@ -174,7 +174,7 @@
           <div class="testimonial-item bg-light rounded p-4">
 
             <div class="d-flex align-items-center">
-              <img class="images-fluid flex-shrink-0 rounded" src="images/krishd.jpg"
+              <img class="images-fluid flex-shrink-0 rounded" src="images/Krishd.jpg"
                 style="width: 150px; height: 150px;">
               <div class="ps-3">
                 <h5 class="mb-1" style="font-size:20px;">Krish Desai</h5>
